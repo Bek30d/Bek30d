@@ -9,7 +9,7 @@
 
 <div>
   <p>
-  👨‍💻 I enjoy enhancing my skills through avid reading, thoroughly absorbing <link href='https://github.com/getify/You-Dont-Know-JS'>You Don't Know JS</link> and frequently delving into articles on platforms like DEV Community and LinkedIn. In my spare time, I enjoy tackling problem-solving challenges on platforms like LeetCode and CodeWars, honing my coding skills through practical application and problem-solving.
+  👨‍💻 I enjoy enhancing my skills through avid reading, thoroughly absorbing <a href='https://github.com/getify/You-Dont-Know-JS'>You Don't Know JS</a> and frequently delving into articles on platforms like DEV Community and LinkedIn. In my spare time, I enjoy tackling problem-solving challenges on platforms like LeetCode and CodeWars, honing my coding skills through practical application and problem-solving.
   </p>
 </div>
 
