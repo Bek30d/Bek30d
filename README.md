@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello there, I'm Bekzod</h1>
+  <h1>Hello there 👋, I'm Bekzod</h1>
   <img src="https://celes.club/uploads/posts/2022-06/1654711295_34-celes-club-p-oboi-koding-krasivie-38.jpg" width="200" />
   <p>[briefly describe yourself and your interests]</p>
 </div>
