@@ -1,5 +1,8 @@
-### Hi there 👋
-<img src="https://eos.ru/wp-content/uploads/2023/01/istock-1573753081.jpg" width="200" />
+<div id="header" align="center">
+  <h1>Hello there, I'm Bekzod</h1>
+  <img src="https://celes.club/uploads/posts/2022-06/1654711295_34-celes-club-p-oboi-koding-krasivie-38.jpg" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
 ### 🚀 About Me
 🎓 With nearly two years of React experience and ongoing exploration of Vue.js and React Native, I'm dedicated to mastering diverse technologies. I am also pursuing my Bachelor's in Computer Science & Engineering and will graduate in mid-2025.
 
