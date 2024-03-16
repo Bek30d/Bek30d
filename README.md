@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there 👋, I'm Bekzod</h1>
+  <link href='https://github.com/getify/You-Dont-Know-JS'>You Don't Know JS</link>
   <img src="https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/og_image/OG.jpg" width="200" />
 </div>
  
