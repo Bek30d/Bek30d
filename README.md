@@ -7,8 +7,10 @@
 
   👨‍💻 I enjoy enhancing my skills through avid reading, thoroughly absorbing You Don't Know JS, and frequently delving into articles on platforms like DEV Community and LinkedIn. In my spare time, I enjoy tackling problem-solving challenges on platforms like LeetCode and CodeWars, honing my coding skills through practical application and problem-solving.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+### 🛠️ Skills
 
+Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <!--
