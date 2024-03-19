@@ -50,10 +50,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h2>🔗 Links</h2>
-<a href='https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white'>
-  https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white
-</a>
+
 
 
 
